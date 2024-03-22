@@ -1,0 +1,11 @@
+atena Bologna 1920 xxx 00001
+libertà Pisa 1915 zzz 00002
+popolare Trento 1899 zzy 00003
+aprile-25 Lecce 1945 yyy 00004
+sitor Napoli 1919 kkk 00005
+Beta Napoli 1925 qqq 00006
+progresso Bologna 1921 sss 00007
+Intorcia Benevento 1940 cvs 00008
+belloni Pisa 1919 inc 00009
+Kitor Catania 1918 nio 00010
+belleri Udine 1899 ppp 00011
